@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mason Veilleux / Site Title"
+title                    : "Mr"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mason Veilleux"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @VeilleuxMason
+  username               : VeilleuxMason
 facebook:
   username               :
   app_id                 :
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : mv308@kent.ac.uk
-  researchgate     :  #
+  email            : "mv308@kent.ac.uk"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/mason-veilleux/
+  linkedin         : "https://www.linkedin.com/in/mason-veilleux/"
   orcid            : 
   pinterest        :
   soundcloud       :
